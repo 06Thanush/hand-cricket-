@@ -1,0 +1,4 @@
+pygame>=2.5.0
+# Camera-based gesture recognition (optional – keyboard fallback is used if absent)
+opencv-python>=4.9.0
+mediapipe>=0.10.0
